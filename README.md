@@ -1,6 +1,6 @@
 # Kickoff
 
-A clean slate of html, css, and javascript files.
+A clean starting point for your Websites and Web Apps made of of html, css, and javascript files.
 
 
 NOTE
