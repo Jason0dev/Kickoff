@@ -4,6 +4,6 @@ A clean starting point for your Websites and Web Apps made of html, css, and jav
 
 
 NOTE
-- Version 1.1
+- Version 1.1.1
 - Normalize is included (css reset).
 - All files are connected to html file.
