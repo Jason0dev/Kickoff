@@ -11,4 +11,4 @@ NOTE
 
 NEW
 - Kickoff with no external files.
-- Only externa file is Normalize.
+- Only externa file is Normalize.css
