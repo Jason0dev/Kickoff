@@ -7,3 +7,7 @@ NOTE
 - Version 1.1.1
 - Normalize is included (css reset).
 - All files are connected to html file.
+
+NEW
+- Kickoff with no external files.
+- Only externa file is Normalize.
